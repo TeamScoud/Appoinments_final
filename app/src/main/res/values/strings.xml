@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt1">Appoinments</string>
+    <string name="textView2">Name  :</string>
+    <string name="textView3">Subject  :</string>
+    <string name="TextView">Date  :</string>
+    <string name="TextView5">Mode  :</string>
+    <string name="button2">COUNT</string>
+    <string name="buttton3">DELETE</string>
+    <string name="button4">UPDATE</string>
+    <string name="button6">SHOW</string>
+    <string name="textView4">ID :</string>
+    <string name="button5">SEARCH</string>
+    <string name="button7">DELETE</string>
+    <string name="button10">BACK</string>
+    <string name="button8">SEARCH</string>
+    <string name="textView6">Appoinments</string>
+
+    <array name="subjects">
+        <item>English</item>
+        <item>Mathematics</item>
+        <item>Science</item>
+        <item>Civics</item>
+        <item>Logic</item>
+    </array>
+
+    <array name="modes">
+        <item>ZOOM</item>
+        <item>MS Teams</item>
+
+    </array>
+</resources>
